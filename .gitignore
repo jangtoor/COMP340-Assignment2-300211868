@@ -1,0 +1,12 @@
+# Ignore object files and executables
+*.o
+oss
+user
+
+# Ignore logs, temporary files
+*.log
+*.tmp
+
+# Ignore editor-specific files
+*.swp
+*.swo
