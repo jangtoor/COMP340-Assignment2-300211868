@@ -1,0 +1,6 @@
+20000  # Clock increment in nanoseconds
+
+0 64867 375891   # Launch at 0 seconds and 64867 nanoseconds, duration 375891 nanoseconds
+0 563620 5000000 # Launch at 0 seconds and 563620 nanoseconds, duration 5000000 nanoseconds
+0 2758375 375620 # Launch at 0 seconds and 2758375 nanoseconds, duration 375620 nanoseconds
+1 30000 35000    # Launch at 1 second and 30000 nanoseconds, duration 35000 nanoseconds
